@@ -1,0 +1,13 @@
+ body{
+    background-color: #ffffff;
+  }
+  .carousel-inner{
+    height: 100px;
+  }
+  .carousel-caption{
+    color: #000000;
+    position: static;
+    padding-top: 0%;
+  }
+
+ 
